@@ -51,7 +51,8 @@ img.svg{
 	width: 15px;
 	height: 15px;
 }
-::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+/* WebKit, Blink, Edge */
+::-webkit-input-placeholder { 
     color: #6f6f6f;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
